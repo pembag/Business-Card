@@ -7,9 +7,13 @@ import Interest from "./Components/Interest";
 function App() {
   return (
     <>
+      {/* Photo, name, button for email */}
       <Info />
+      {/* About my career with hint of my pernality */}
       <About />
+      {/* My Interest */}
       <Interest />
+      {/* Footer for Social Icons */}
       <Footer />
     </>
   );

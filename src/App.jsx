@@ -6,16 +6,18 @@ import Interest from "./Components/Interest";
 
 function App() {
   return (
-    <>
+    <main>
       {/* Photo, name, button for email */}
       <Info />
       {/* About my career with hint of my pernality */}
-      <About />
-      {/* My Interest */}
-      <Interest />
+      <section>
+        <About />
+        {/* My Interest */}
+        <Interest />
+      </section>
       {/* Footer for Social Icons */}
       <Footer />
-    </>
+    </main>
   );
 }
 

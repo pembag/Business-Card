@@ -11,7 +11,7 @@ export default function Info() {
         <h4 className="title engineer">Software Engineer</h4>
 
         <button className="email-btn">
-          <a href="mailto:yourname@example.com" class="email-tag">
+          <a href="mailto:pembagurung26@gmail.com" class="email-tag">
             <img src={emailLogo} alt="Email Logo" />
             <p>Email</p>
           </a>

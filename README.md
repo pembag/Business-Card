@@ -2,12 +2,20 @@
 - Build the application using React.
 - The purpose of the App is to provide a brief summary of my background and contain links to connect if interested.
 
-# The app displays my informations
-# Contains Separate Components for:
+--- 
+
+## The app displays my informations
+### Contains Separate Components for:
 - My Info(photo, name, title, and buttons)
 - About section &
 - Interest
 
+---
+- Live at: (https://pembag.github.io/Business-Card/)
+
+
+
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

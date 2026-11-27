@@ -11,7 +11,7 @@
 - Interest
 
 ---
-- Live at: (https://pembag.github.io/Business-Card/)
+- Live at: https://pembag.github.io/Business-Card/
 
 
 

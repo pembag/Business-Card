@@ -6,7 +6,7 @@ export default function About() {
         <span>
           I'm a developer with hands-on experience building enterprise
           applications across different industries. I enjoy solving problems on
-          both sides of frontend and Backend development to create simple,
+          both sides of Frontend and Backend development to create simple,
           seamless experiences that make people's lives easier.
           <br />
           <br />

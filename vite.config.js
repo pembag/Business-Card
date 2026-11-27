@@ -4,9 +4,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:"/Business-Card",
-  plugins: [
-    react(),
-    babel({ presets: [reactCompilerPreset()] })
-  ],
-})
+  plugins: [react(), babel({ presets: [reactCompilerPreset()] })],
+  base: "/Business-Card/"
+});
